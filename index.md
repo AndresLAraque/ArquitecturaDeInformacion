@@ -11,7 +11,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# La arquitectura de información ayuda a desarrollar sistemas compatibles para proporcionar un enfoque de negocio en una linea tecnológica, ademas proporciona conceptos y marcos para tratar y garantizar una respuesta ofreciendo un conocimiento confiable. También describe los lineamientos, principios y pautas de como se rigen los datos y como se comparten en la empresa, la arquitectura presenta como guia algunos principios básicos, Acceso e intercambio de información, reutilizacion de servicios , Gobernanza de la información, y estandares.
+
 ## Header 2
 ### Header 3
 
